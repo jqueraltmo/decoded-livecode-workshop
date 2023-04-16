@@ -1,106 +1,106 @@
 ![DECODED Banner](images/banner_estuary.png)
 
-# Command Quick Reference
+# Referència ràpida d'ordres
 
 ![Estuary Terminal](images/estuary_terminal.png)
 
-## View Modifiers
+## Modificadors de la vista
 
-*See what views are available*
+*Veure quines vistes hi ha disponibles*
 ```
 !listviews
 ```
 
 ---
 
-*choose a view to display locally (your pc only) from above output*
+*Triar una vista per mostrar localment (només al teu ordinador) de la sortida anterior.*
 ```
 !presetview n
 ```
 
 ---
 
-*set the current view for all users in the ensemble*
+*Assignar la vista actual a tots els usuaris de la banda.*
 ```
 !publishview def
 ```
 
 ---
 
- *return to the default view on your local display*
+ *Tornar a la vista per defecte a la teva finestra.*
 ```
 !presetview def
 ```
 
 ---
 
-*see what code generated the current view*
+*Veure quin codi genera la vista actual.*
 ```
 !dumpview
 ```
 
 ---
 
-*list all samples*
+*Llistar totes les mostres.*
 ```
 !localview audiomap
 ```
 
 ---
 
-*show visuals only, on the local display*
+*Mostrar només els visuals, a la finestra local.*
 ```
 !localview []
 ```
 
 ---
 
-*display `iframes` in cells, checkout vdo.ninja*
+*Mostrar `iframes` en cel·les, veure vdo.ninja*
 ```
 !localview $ grid 2 2 [iFrame "https://en.wikipedia.org/wiki/4hero",code 0 0,code 1 0,iFrame "https://en.wikipedia.org/wiki/4hero"]
 ```
 
 ---
 
-## In-Jam Functions
+## Funcions útils
 
-*get tempo*
+*Veure el tempo*
 ```
 !showtempo
 ```
 
 ---
 
-*set tempo in cycles per second, between 0-1 is a safe range*
+*Assignar el tempo, en cicles per segon. Entre 0 i 1 són valors segurs.*
 ```
 !setcps x.y
 ```
 
 ---
 
-*[add your own (hosted) samples](https://github.com/dktr0/estuary/wiki#adding-sound-files-to-estuarywebdirt-on-the-fly-early-august-2021)*
+*[afegir mostres del teu servidor](https://github.com/dktr0/estuary/wiki#adding-sound-files-to-estuarywebdirt-on-the-fly-early-august-2021)*
 
 ```
-!reslist "https://your.hosted.samples/resources.json"
+!reslist "https://el.teu.domini/resources.json"
 ```
 
 ---
 
-*show what external resources have been loaded*
+*Veure quins recursos externs s'han carregat.*
 ```
 !showresources
 ```
 
 ---
 
- *return to initial state of estuary server provided resources*
+ *Tornar als recursos per defecte proporcionats per Estuary.*
 ```
 !defaultresources
 ```
 
 ---
 
- *remove all resources, incl estuary defaults*
+ *Eliminar tots els recursos, inclosos els proporcionats per defecte.*
 ```
 !clearresources
 ```
