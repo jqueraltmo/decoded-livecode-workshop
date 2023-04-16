@@ -1,7 +1,7 @@
 <!-- _sidebar.md -->
 
-- [Estuary Introduction](/estuary/)
-- **Workshops**
+- [Introducció a Estuary](/estuary/)
+- **Tallers**
 
-  - [Audio Livecoding (minitidal)](/minitidal/)
-  - [Visual Livecoding (punctual)](/punctual/)
+  - [Codificació en viu d'àudio (minitidal)](/minitidal/)
+  - [Codificació en viu de visuals (punctual)](/punctual/)

@@ -1,29 +1,29 @@
 !['DECODED Banner](assets/images/antonio_3_banner.png)
 
-An artistic livecoding workshop on the [estuary](https://estuary.mcmaster.ca) platform. 
+Un taller artístic de codi en viu a la plataforma [estuary](https://estuary.mcmaster.ca).
 
 
-## Estuary Introduction
+## Introducció a Estuary
 
- - [About](/estuary/README.md)
+ - [Sobre](/estuary/README.md)
 
-## Workshops
+## Tallers
 
-### Livecoded Audio with Minitidal (Tidalcycles)
+### Codificació en viu d'àudio amb MiniTidal (TidalCycles)
 
- - [About](/minitidal/)
- - [1-1. First Sounds](/minitidal/1-1.md) (~0.5h)
- - [1-2. Mini-notation Sequencing and Patterning Concepts](/minitidal/1-2.md) (~1h)
- - [1-3. Pitches, Filters and Re-use](/minitidal/1-3.md) (~1h)
- - [1-4. Pattern Mod Func and Randomness](/minitidal/1-4.md) (~1h)
- - [2-1. Binary Patterns](/minitidal/2-1.md) (~1h)
+ - [Sobre](/minitidal/)
+ - [1-1. Primers sons](/minitidal/1-1.md) (~0.5h)
+ - [1-2. Seqüenciació i conceptes de patrons en Mini-notació](/minitidal/1-2.md) (~1h)
+ - [1-3. Filtres i tons](/minitidal/1-3.md) (~1h)
+ - [1-4. Funcions per modificar patrons i aleatorietat](/minitidal/1-4.md) (~1h)
+ - [2-1. Patrons binaris](/minitidal/2-1.md) (~1h)
 
-### Livecoded Visuals with Punctual
+### Codificació en viu de visuals amb Punctual
 
- - [About](/punctual/)
- - [1-1. First Shapes](/punctual/1-1.md) (~1h)
- - [1-2. Moving Things Around](/punctual/1-2.md) (~1h)
- - [1-3. Different Output Targets](/punctual/1-3.md) (~1h)
- - [1-4. Jigging With the Numbers](/punctual/1-4.md) (~1h)
+ - [Sobre](/punctual/)
+ - [1-1. Primeres formes](/punctual/1-1.md) (~1h)
+ - [1-2. Movent les coses amunt i avall](/punctual/1-2.md) (~1h)
+ - [1-3. Diferents objectius de sortida](/punctual/1-3.md) (~1h)
+ - [1-4. Jugant amb els nombres](/punctual/1-4.md) (~1h)
 
 **[Copyright](COPYRIGHT.md)**
