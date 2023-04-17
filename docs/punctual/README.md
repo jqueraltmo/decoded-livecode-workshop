@@ -1,18 +1,18 @@
 ![DECODED Banner](images/banner_punctual.png)
 
-## Livecoded Visuals with Punctual
+## Codificació en viu de visuals amb Punctual
 
-[Punctual](https://github.com/dktr0/Punctual) is a language for live coding audio and visuals. It allows you to build and change networks of signal processors (oscillators, filters, etc) on the fly.
+El [Punctual](https://github.com/dktr0/Punctual) és un llenguatge per fer codi en viu d'àudio i visuals. Permet crear i modificar xarxes de processadors de senyal (oscil·ladors, filtres, etc.) sobre la marxa.
 
-Punctual runs in a web browser, and is portable to any system with a browser that supports the Web Audio API (for sound) and WebGL (for video). While it can be used in a standalone way, it is also bundled inside the Estuary platform for collaborative live coding.
+El Punctual s'executa en un navegador web, i és portable a qualsevol sistema amb un navegador que suporti la Web Audio API (per so) i WebGL (per vídeo). Tot i que es pot utilitzar de forma aïllada, també està inclòs dins de la plataforma Estuary de codificació en viu col·labrativa.
 
-The Worksheets provided cover the visual capabilities of Punctual only, specifically inside [Estuary](https://estuary.mcmaster.ca). The content should work equally well for [standalone Punctual](https://dktr0.github.io/Punctual/) with minimal adjustments
+Els apunts que es proporcionen cobreixen només les capacitats visuals de Punctual, específicament dins d'[Estuary](https://estuary.mcmaster.ca). El contingut hauria de funcionar igual de bé en [Punctual aïllat](https://dktr0.github.io/Punctual/) amb ajustaments mínims.
 
-### Worksheets
+### Apunts
 
- - [1-1. First Shapes](/punctual/1-1.md) (~1h)
- - [1-2. Moving Things Around](/punctual/1-2.md) (~1h)
- - [1-3. Different Output Targets](/punctual/1-3.md) (~1h)
- - [1-4. Jigging With the Numbers](/punctual/1-4.md) (~1h)
+ - [1-1. Primeres formes](/punctual/1-1.md) (~1h)
+ - [1-2. Movent les coses amunt i avall](/punctual/1-2.md) (~1h)
+ - [1-3. Diferents objectius de sortida](/punctual/1-3.md) (~1h)
+ - [1-4. Jugant amb els nombres](/punctual/1-4.md) (~1h)
 
 **[Copyright](COPYRIGHT.md)**
